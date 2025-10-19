@@ -4,3 +4,4 @@ print("total",total)
 print("Average=",average)
 
 print("this is from ghana")
+print("UK")
